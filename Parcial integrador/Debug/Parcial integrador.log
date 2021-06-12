@@ -1,0 +1,12 @@
+﻿  cElite.cpp
+C:\Users\pilim\Documents\2021\LABORATORIO DE PROGRAMACIÓN\Parcial integrador\cElite.cpp(20,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  cEsrriboE.cpp
+  cEsrriboM.cpp
+C:\Users\pilim\Documents\2021\LABORATORIO DE PROGRAMACIÓN\Parcial integrador\cEsrriboM.cpp(13,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  cJefe.cpp
+  cMonstruo.cpp
+  cPersona.cpp
+  main.cpp
+C:\Users\pilim\Documents\2021\LABORATORIO DE PROGRAMACIÓN\Parcial integrador\main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Parcial integrador.vcxproj -> C:\Users\pilim\Documents\2021\LABORATORIO DE PROGRAMACIÓN\Parcial integrador\Debug\Parcial integrador.exe
